@@ -1,0 +1,24 @@
+{
+  "id": "com.vgrachev.homey.kotlin.app",
+  "version": "1.0.0",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "Homey Kotlin Example App"
+  },
+  "description": {
+    "en": "Homey Kotlin Example App"
+  },
+  "category": [
+    "tools"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Vladimir Grachev",
+    "email": "vladimir.grachev@gmail.com"
+  }
+}

@@ -1,0 +1,1 @@
+module.exports = require('./kotlin-app').com.vgrachev.homey.kotlin.app.MyApp;
